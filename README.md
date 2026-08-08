@@ -1,7 +1,7 @@
 # amFOSS Praveshan Tasks 2026
 
 ## About Me
-Hello everyone, I'm Siddharth from Kerala, currently in S3 CSE D. I've been a tech enthusiast since childhood.. lways looking for new technologies, trying them out, and understanding how they actually work. I want to join amFOSS because it brings together people who love new tech and open source, just like I do.
+Hello everyone, I'm Siddharth from Kerala, currently in S3 CSE D. I've been a tech enthusiast since childhood.. always looking for new technologies, trying them out, and understanding how they actually work. I want to join amFOSS because it brings together people who love new tech and open source, just like I do.
 
 ## A problem I've noticed and want to solve
 
