@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Log Pose",
+        "price": 300,
+        "effect": "Improves navigation across the Grand Line.",
+        "emoji": "🧭"
+    },
+    {
+        "name": "Den Den Mushi",
+        "price": 500,
+        "effect": "A communication snail for pirate crews.",
+        "emoji": "🐌"
+    },
+    {
+        "name": "Treasure Map",
+        "price": 750,
+        "effect": "Increases raid rewards by revealing hidden treasure.",
+        "emoji": "🗺️"
+    },
+    {
+        "name": "Sea Prism Stone",
+        "price": 1000,
+        "effect": "Reduces the chance of losing a raid.",
+        "emoji": "🪨"
+    },
+    {
+        "name": "Devil Fruit Box",
+        "price": 1500,
+        "effect": "Contains a mysterious Devil Fruit with unknown power.",
+        "emoji": "🍈"
+    }
+]
