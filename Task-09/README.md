@@ -8,20 +8,20 @@ The goal is simple: flip cards, find all matching character pairs, and complete 
 
 ## Features
 
-- 🃏 16-card memory matching board
-- 👒 8 One Piece characters with matching pairs
-- 🎨 Custom character artwork and card-back artwork
-- ⏱️ Real-time game timer
-- 🔢 Move counter
-- ⭐ Score system
-- 🏆 Persistent best score
-- 🌙 Dark mode
-- ☀️ Light mode
-- 💾 Theme and best score persistence using `shared_preferences`
-- 🔄 New Game button
-- ✨ Card flip and match animations
-- 📱 Responsive layout
-- 🖥️ Supports Flutter Web and Desktop
+-  16-card memory matching board
+-  8 One Piece characters with matching pairs
+-  Custom character artwork and card-back artwork
+-  Real-time game timer
+-  Move counter
+-  Score system
+-  Persistent best score
+-  Dark mode
+-  Light mode
+-  Theme and best score persistence using `shared_preferences`
+-  New Game button
+-  Card flip and match animations
+-  Responsive layout
+-  Supports Flutter Web and Desktop
 
 ---
 
