@@ -22,6 +22,6 @@ Furthermore, I would like to help in creating an environment in which members ca
 
 ## Fields of interest
 
-Software Development
-Artificial Intelligence & Machine Learning
-Competitive Programming and DSA
+- Software Development
+- Artificial Intelligence & Machine Learning
+- Competitive Programming and DSA
